@@ -86,18 +86,18 @@ code {
 /* ---> UTILITIES */
 
 /* Colors */
-.color-green {
-  color: #729f34;
+.color-red {
+  color: #FF3030;
 }
-.bg-color-green {
-  background-color: #729f34;
+.bg-color-red {
+  background-color: #FF3030;
 }
 
-.color-green-3 {
-  color: #8fc741;
+.color-red-3 {
+  color: #FF6C6C;
 }
-.bg-color-green-3 {
-  background-color: #8fc741;
+.bg-color-red-3 {
+  background-color: #FF6C6C;
 }
 
 .color-blue {

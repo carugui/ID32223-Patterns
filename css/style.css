@@ -1,8 +1,8 @@
 body {
   margin: 0;
   font-family: 'Source Sans Pro', sans-serif;
-  color: #1e1e1e;
-  background-color: #e1e1e1;
+  color: #FF5169;
+  background-color: #FFE8FF;
   font-weight: 400;
 }
 
@@ -150,7 +150,7 @@ code {
   max-width: 800px;
   padding: 16px;
   margin: 16px auto;
-  background-color: white;
+  background-color: #FFF9FF;
   border-radius: 8px;
 }
 

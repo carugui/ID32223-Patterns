@@ -121,13 +121,6 @@ code {
   background-color: #1e1e1e;
 }
 
-.color-grey-2 {
-  color: #a2a2a2;
-}
-.bg-color-grey-2 {
-  background-color: #a2a2a2;
-}
-
 .color-grey-3 {
   color: #a2a2a2;
 }
@@ -136,11 +129,19 @@ code {
 }
 
 .color-grey-5 {
-  color: #dadada;
+  color: #bebebe;
 }
 .bg-color-grey-5 {
+  background-color: #bebebe;
+}
+
+.color-grey-7 {
+  color: #dadada;
+}
+.bg-color-grey-7 {
   background-color: #dadada;
 }
+
 
 
 
